@@ -8,10 +8,11 @@
 **TopUp-in 🎮** is an online shopping site for customers that focuses on selling virtual products such as game items, game accounts, and video game currency as well as various types of game vouchers.
 
 ## What Technology is in This Website?
+
 In here we use the framework codeigniter 4 and bootstrap 5, for the database we use MySQL
 
-
 ## What is CodeIgniter?
+
 <image style="display: block;
   margin-left: auto;
   margin-right: auto;
