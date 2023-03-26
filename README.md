@@ -15,7 +15,9 @@ In here we use the framework codeigniter 4 and bootstrap 5, for the database we 
 <image style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;" src="https://raw.githubusercontent.com/zoelabbb/carkecor/master/public/img/log/codeigniter.png?token=GHSAT0AAAAAACAQD5MD5ZOEIDLHCVLBOMTAZBA3D5Q"></image>
+  width: 15%;" src="https://raw.githubusercontent.com/zoelabbb/carkecor/master/public/img/log/codeigniter.png?token=GHSAT0AAAAAACAQD5MD5ZOEIDLHCVLBOMTAZBA3D5Q"></image>
+
+
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
 More information can be found at the [official site](https://codeigniter.com).
 
