@@ -1,4 +1,7 @@
-# CodeIgniter 4 Framework
+# TopUp-in 🎮
+
+![image](https://user-images.githubusercontent.com/49254668/227810816-09b1205b-23f7-4b71-b701-3f872983862e.png)
+
 
 ## What is CodeIgniter?
 
