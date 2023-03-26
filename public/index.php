@@ -147,35 +147,30 @@
 						<!-- Nav tabs -->
 						<ul class="tab-menu nav clearfix">
 							<li><a class="active" href="index.html#best-seller" data-bs-toggle="tab">Best Seller 👍🏻</a></li>
-							<li><a href="index.html#new-arrivals" data-bs-toggle="tab">Game PC 🖥️</a></li>
-							<li><a href="index.html#most-view" data-bs-toggle="tab">Game Mobile 📱</a></li>
-							<li><a href="index.html#discounts" data-bs-toggle="tab">Voucher Game 💳</a></li>
+							<li><a href="index.html#gamepc" data-bs-toggle="tab">Game PC 🖥️</a></li>
+							<li><a href="index.html#gamemobile" data-bs-toggle="tab">Game Mobile 📱</a></li>
+							<li><a href="index.html#voucherGame" data-bs-toggle="tab">Voucher Game 💳</a></li>
 						</ul>
 					</div>
 					<div class="col-lg-12">
 						<!-- Tab panes -->
 						<div class="tab-content">
-							<div class="tab-pane active" id="new-arrivals">
+							<div class="tab-pane" id="voucherGame">
 								<div class="row">
 									<!-- Single-product start -->
 									<div class="single-product col-xl-3 col-lg-4 col-md-6">
 										<div class="product-img">
 											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/5.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
+											<a href=""><img src="img/TopUp-in/steam.png" alt="" /></a>
 										</div>
 										<div class="product-info clearfix">
 											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
+												<h4 class="post-title floatleft"><a href="index.html#">Steam Wallet</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
 											</div>
 											<div class="fix">
-												<span class="pro-price floatleft">$ 56.20</span>
+												<!-- <span class="pro-price floatleft">$ 56.20</span> -->
+												<p class="floatleft hidden-sm">Voucher Game</p>
 												<span class="pro-rating floatright">
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
@@ -187,113 +182,26 @@
 										</div>
 									</div>
 									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/6.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 36.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/3.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/7.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 57.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
+
+								</div>
+							</div>
+
+							<div class="tab-pane" id="gamepc">
+								<div class="row">
 									<!-- Single-product start -->
 									<div class="single-product col-xl-3 col-lg-4 col-md-6">
 										<div class="product-img">
 											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/1.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
+											<a href=""><img src="img/TopUp-in/valorant.jpg" alt="" /></a>
 										</div>
 										<div class="product-info clearfix">
 											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
+												<h4 class="post-title floatleft"><a href="index.html#">Valorant</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
 											</div>
 											<div class="fix">
-												<span class="pro-price floatleft">$ 55.20</span>
+												<!-- <span class="pro-price floatleft">$ 55.20</span> -->
+												<p class="floatleft hidden-sm">Game PC</p>
 												<span class="pro-rating floatright">
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
@@ -305,25 +213,28 @@
 										</div>
 									</div>
 									<!-- Single-product end -->
+
+								</div>
+							</div>
+
+
+
+							<div class="tab-pane active" id="best-seller">
+								<div class="row">
 									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
+									<div class="single-product col-xl-3 col-lg-4 col-md-6 col-sm-4">
 										<div class="product-img">
-											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/2.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
+											<span class="pro-label new-label">new</span>
+											<a href=""><img src="img/TopUp-in/steam.png" alt="" /></a>
 										</div>
 										<div class="product-info clearfix">
 											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
+												<h4 class="post-title floatleft"><a href="index.html#">Steam Wallet</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
 											</div>
 											<div class="fix">
-												<span class="pro-price floatleft">$ 65.20</span>
+												<!-- <span class="pro-price floatleft">$ 56.20</span> -->
+												<p class="floatleft hidden-sm">Voucher Game</p>
 												<span class="pro-rating floatright">
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
@@ -335,24 +246,21 @@
 										</div>
 									</div>
 									<!-- Single-product end -->
+
 									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
+									<div class="single-product col-xl-3 col-lg-4 col-md-6 col-sm-4">
 										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/8.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
+											<span class="pro-label new-label">new</span>
+											<a href=""><img src="img/TopUp-in/valorant.jpg" alt="" /></a>
 										</div>
 										<div class="product-info clearfix">
 											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
+												<h4 class="post-title floatleft"><a href="index.html#">Valorant</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
 											</div>
 											<div class="fix">
-												<span class="pro-price floatleft">$ 60.20</span>
+												<!-- <span class="pro-price floatleft">$ 55.20</span> -->
+												<p class="floatleft hidden-sm">Game PC</p>
 												<span class="pro-rating floatright">
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
@@ -364,24 +272,22 @@
 										</div>
 									</div>
 									<!-- Single-product end -->
+
 									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
+									<div class="single-product col-xl-3 col-lg-4 col-md-6 col-sm-4">
 										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/9.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
+											<a href=""><img src="img/TopUp-in/Mobile Legend.png" alt="" /></a>
+
 										</div>
 										<div class="product-info clearfix">
 											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
+												<h4 class="post-title floatleft"><a href="index.html#">Mobile Legend</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
+
 											</div>
 											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
+												<!-- <span class="pro-price floatleft">$ 57.20</span> -->
+												<p class="floatleft hidden-sm">Mobile Game</p>
 												<span class="pro-rating floatright">
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
@@ -395,27 +301,24 @@
 									<!-- Single-product end -->
 								</div>
 							</div>
-							<div class="tab-pane" id="best-seller">
+
+
+							<div class="tab-pane" id="gamemobile">
 								<div class="row">
 									<!-- Single-product start -->
 									<div class="single-product col-xl-3 col-lg-4 col-md-6">
 										<div class="product-img">
-											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/2.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
+											<span class="pro-label sale-label">Big Sale</span>
+											<a href=""><img src="img/TopUp-in/genshin.jpg" alt="" /></a>
 										</div>
 										<div class="product-info clearfix">
 											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
+												<h4 class="post-title floatleft"><a href="index.html#">Genshin</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
 											</div>
 											<div class="fix">
-												<span class="pro-price floatleft">$ 56.20</span>
+												<!-- <span class="pro-price floatleft">Order Now</span> -->
+												<p class="floatleft hidden-sm">Mobile Game</p>
 												<span class="pro-rating floatright">
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
@@ -427,201 +330,76 @@
 										</div>
 									</div>
 									<!-- Single-product end -->
+
+									<!-- Single-product start -->
+									<div class="single-product col-xl-3 col-lg-4 col-md-6">
+										<div class="product-img">
+											<a href=""><img src="img/TopUp-in/Mobile Legend.png" alt="" /></a>
+
+										</div>
+										<div class="product-info clearfix">
+											<div class="fix">
+												<h4 class="post-title floatleft"><a href="index.html#">Mobile Legend</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
+
+											</div>
+											<div class="fix">
+												<!-- <span class="pro-price floatleft">$ 57.20</span> -->
+												<p class="floatleft hidden-sm">Mobile Game</p>
+												<span class="pro-rating floatright">
+													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
+												</span>
+											</div>
+										</div>
+									</div>
+									<!-- Single-product end -->
+
+									<!-- Single-product start -->
+									<div class="single-product col-xl-3 col-lg-4 col-md-6">
+										<div class="product-img">
+											<a href=""><img src="img/TopUp-in/pubgm.png" alt="" /></a>
+
+										</div>
+										<div class="product-info clearfix">
+											<div class="fix">
+												<h4 class="post-title floatleft"><a href="index.html#">PUBG Mobile</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
+
+											</div>
+											<div class="fix">
+												<!-- <span class="pro-price floatleft">$ 66.20</span> -->
+												<p class="floatleft hidden-sm">Mobile Game</p>
+												<span class="pro-rating floatright">
+													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
+													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
+												</span>
+											</div>
+										</div>
+									</div>
+									<!-- Single-product end -->
+
 									<!-- Single-product start -->
 									<div class="single-product col-xl-3 col-lg-4 col-md-6">
 										<div class="product-img">
 											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/9.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
+											<a href=""><img src="img/TopUp-in/freefire.png" alt="" /></a>
+
 										</div>
 										<div class="product-info clearfix">
 											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
+												<h4 class="post-title floatleft"><a href="index.html#">Free Fire</a></h4>
+												<a class="floatright" href="" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i> Order Here</a>
 											</div>
 											<div class="fix">
-												<span class="pro-price floatleft">$ 36.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/8.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/6.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 57.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/4.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 55.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/3.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 65.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/7.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 60.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/5.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
+												<!-- <span class="pro-price floatleft">$ 36.20</span> -->
+												<p class="floatleft hidden-sm">Mobile Game</p>
 												<span class="pro-rating floatright">
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
 													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
@@ -635,484 +413,12 @@
 									<!-- Single-product end -->
 								</div>
 							</div>
-							<div class="tab-pane" id="most-view">
+
+
+							<div class="tab-pane" id="voucherGame">
 								<div class="row">
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/1.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 56.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/3.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 36.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/5.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/9.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 57.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/7.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 55.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/5.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 65.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/7.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 60.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/8.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-								</div>
-							</div>
-							<div class="tab-pane" id="discounts">
-								<div class="row">
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/8.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 56.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/9.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 36.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/7.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/6.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 57.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label new-label">new</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/3.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 55.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/4.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 65.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/5.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 60.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
-									<!-- Single-product start -->
-									<div class="single-product col-xl-3 col-lg-4 col-md-6">
-										<div class="product-img">
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/2.jpg" alt="" /></a>
-											<div class="product-action clearfix">
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
-												<a href="index.html#" data-bs-toggle="tooltip" data-placement="top" title="Compare"><i class="zmdi zmdi-refresh"></i></a>
-												<a href="https://template.hasthemes.com/hurst-v1/hurst/cart.html" data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-											</div>
-										</div>
-										<div class="product-info clearfix">
-											<div class="fix">
-												<h4 class="post-title floatleft"><a href="index.html#">dummy Product name</a></h4>
-												<p class="floatright hidden-sm">Furniture</p>
-											</div>
-											<div class="fix">
-												<span class="pro-price floatleft">$ 66.20</span>
-												<span class="pro-rating floatright">
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-													<a href="index.html#"><i class="zmdi zmdi-star-half"></i></a>
-												</span>
-											</div>
-										</div>
-									</div>
-									<!-- Single-product end -->
+
+
 								</div>
 							</div>
 						</div>

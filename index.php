@@ -19,36 +19,36 @@
 
 	<!-- all css here -->
 	<!-- bootstrap v3.3.6 css -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="./public/css/bootstrap.min.css">
 	<!-- animate css -->
-	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="./public/css/animate.min.css">
 	<!-- jquery-ui.min css -->
-	<link rel="stylesheet" href="css/jquery-ui.min.css">
+	<link rel="stylesheet" href="./public/css/jquery-ui.min.css">
 	<!-- meanmenu css -->
-	<link rel="stylesheet" href="css/meanmenu.min.css">
+	<link rel="stylesheet" href="./public/css/meanmenu.min.css">
 	<!-- nivo-slider css -->
-	<link rel="stylesheet" href="lib/css/nivo-slider.css">
-	<link rel="stylesheet" href="lib/css/preview.css">
+	<link rel="stylesheet" href="./public/lib/css/nivo-slider.css">
+	<link rel="stylesheet" href="./public/lib/css/preview.css">
 	<!-- slick css -->
-	<link rel="stylesheet" href="css/slick.min.css">
+	<link rel="stylesheet" href="./public/css/slick.min.css">
 	<!-- lightbox css -->
-	<link rel="stylesheet" href="css/lightbox.min.css">
+	<link rel="stylesheet" href="./public/css/lightbox.min.css">
 	<!-- material-design-iconic-font css -->
-	<link rel="stylesheet" href="./css/material-design-iconic-font.css">
+	<link rel="stylesheet" href="./public/css/material-design-iconic-font.css">
 	<!-- All common css of theme -->
-	<link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="./public/css/default.css">
 	<!-- style css -->
 	<!-- <link rel="stylesheet" href="./style.min.css"> -->
-	<link rel="stylesheet" href="./style.css">
+	<link rel="stylesheet" href="./public/style.css">
 	<!-- shortcode css -->
-	<link rel="stylesheet" href="css/shortcode.css">
+	<link rel="stylesheet" href="./public/css/shortcode.css">
 	<!-- responsive css -->
-	<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="./public/css/responsive.css">
 	<!-- modernizr css -->
-	<script src="js/vendor/modernizr-3.11.2.min.js"></script>
+	<script src="./public/js/vendor/modernizr-3.11.2.min.js"></script>
 
 	<!-- Pay CSS -->
-	<link rel="stylesheet" href="css/pembayaran.css">
+	<link rel="stylesheet" href="./public/css/pembayaran.css">
 </head>
 
 <body>
@@ -63,7 +63,7 @@
 					<div class="row">
 						<div class="col-md-4 offset-md-4 col-7">
 							<div class="logo text-md-center">
-								<a href="index.html"><img src="img/TopUp-in/Logo Topup.png" alt="" /></a>
+								<a href="index.html"><img src="./public/img/TopUp-in/Logo Topup.png" alt="" /></a>
 							</div>
 						</div>
 						<div class="col-md-4 col-5">
@@ -309,7 +309,7 @@
 									<div class="single-product col-xl-3 col-lg-4 col-md-6">
 										<div class="product-img">
 											<span class="pro-label sale-label">Sale</span>
-											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="img/product/2.jpg" alt="" /></a>
+											<a href="https://template.hasthemes.com/hurst-v1/hurst/single-product.html"><img src="./public/img/TopUp-in/genshin.jpg" alt="" /></a>
 											<div class="product-action clearfix">
 												<a href="https://template.hasthemes.com/hurst-v1/hurst/wishlist.html" data-bs-toggle="tooltip" data-placement="top" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
 												<a href="index.html#" data-bs-toggle="modal" data-bs-target="#productModal" title="Quick View"><i class="zmdi zmdi-zoom-in"></i></a>
