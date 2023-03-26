@@ -17,7 +17,7 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
-    public string $baseURL = 'https://taupe-gnome-d0e6bf.netlify.app/';
+    public string $baseURL = 'https://topupinaja.netlify.app/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
