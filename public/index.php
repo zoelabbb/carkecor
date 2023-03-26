@@ -378,7 +378,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="section-title text-center">
-							<h2 class="title-border">TopUp 🎮 Kamu Sekarang</h2>
+							<h2 class="title-border">TopUp-in 🎮 Kamu Sekarang</h2>
 						</div>
 					</div>
 				</div>
@@ -1400,7 +1400,7 @@
 								<h3 class="footer-title  title-border">Tim Kami</h3>
 								<ul class="footer-menu">
 									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Wahyu Ananda</a></li>
-									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Achmad Rodi</a></li>
+									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Achmad Rodi ( 04320019 )</a></li>
 									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Moch Restu Mizan Akmal ( 04320014 )</a></li>
 									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Alif Ryuu B.R ( 04320006 )</a></li>
 								</ul>
@@ -1409,12 +1409,7 @@
 						<div class="col-lg-3 col-md-3">
 							<div class="single-footer">
 								<h3 class="footer-title  title-border">Tentang Kami</h3>
-								<ul class="footer-menu">
-									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Wahyu Ananda</a></li>
-									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Achmad Rodi</a></li>
-									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Akmal</a></li>
-									<li><a href="index.html#"><i class="zmdi zmdi-dot-circle"></i>Alif Ryuu B.R</a></li>
-								</ul>
+								<p><b>TopUp-in </b>adalah situs belanja online untuk pelanggan yang berfokus pada transaksi penjualan produk virtual seperti item game, akun game, dan mata uang permainan video game serta berbagai jenis voucher game.</p>
 							</div>
 						</div>
 					</div>
@@ -1427,7 +1422,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="copyright">
-								<p class="mb-0">&copy; <a href=" https://themeforest.net/user/codecarnival/portfolio " target="_blank"> CodeCarnival </a> 2022. All Rights Reserved.</p>
+								<p class="mb-0"><a href=" https://themeforest.net/user/codecarnival/portfolio " target="_blank"> Theme by CodeCarnival </a> &copy;<?php echo date("Y"); ?>. All Rights Reserved.</p>
 							</div>
 						</div>
 						<div class="col-md-6">
